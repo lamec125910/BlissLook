@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BlissLook"
 include(":app")
+include(":qrcodescanner")
